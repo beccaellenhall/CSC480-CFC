@@ -6,3 +6,6 @@ Group members: Sam, Chris, Me, Ibrahim. Decided on group project for CFC. Met wi
 
 Oct 7
 Laid out a game plan on Github, where we can move cards from the ToDo to Doing to Done columns. Sam taking an example from Excel and Ibrahim doing Shiny example to give to Elaine to see if this is what they want. Sam working on that email.
+
+Oct 21
+Met on 9th to go over ETL to DB. Nelson suggested looking at forecast performance. We weren't sure the scope of the project till after out meeting with Elaine on the 15th. We talked about their desires and she was game with the layout we had in Excel. All of us clarified any confusion. Narrowed focus to data warehouse, which would be beneficial for future forecasts.
